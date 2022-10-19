@@ -2,7 +2,7 @@
 
 **1. Download Mobius_Docker from KETI's git repository**
 
-    sudo git clone https://github.com/IoTKETI/Mobius_Docker.git
+    sudo git clone https://github.com/KIT-MukaiLab/Mobius_Docker.git
     cd Mobius_Docker
 
 **2. Execute "install.sh"**
