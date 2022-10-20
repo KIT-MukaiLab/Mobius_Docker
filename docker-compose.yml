@@ -9,8 +9,9 @@ services:
     restart: always
     environment:
       MYSQL_ALLOW_EMPTY_PASSWORD: "yes"
-      MYSQL_USER: "root"
       MYSQL_ROOT_PASSWORD: "dksdlfduq2"
+      MYSQL_USER: "u5er"
+      MYSQL_PASSWOED: "pa55w0rcl"
       MYSQL_DATABASE: "mobiusdb"
     ports:
       - "3306:3306"
