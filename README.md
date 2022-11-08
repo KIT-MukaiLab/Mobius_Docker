@@ -9,11 +9,15 @@
 
     sudo ./instatll.sh
     
-**3. Execute "run.sh"**
+**3. Execute "setup.sh"**
+
+    sudo ./setup.sh
+    
+**4. Execute "run.sh"**
 
     sudo ./run.sh
     
-**4. Test using cURL**
+**5. Test using cURL**
 
     sudo ./test.sh
   
