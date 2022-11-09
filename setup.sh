@@ -1,3 +1,6 @@
+#!/bin/bash
+
+
 sudo docker-compose up --no-start
 
 echo -e "\n===========Result of Mobius docker install==============\n"
